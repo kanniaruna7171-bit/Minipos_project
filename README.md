@@ -1,4 +1,4 @@
-<img width="1916" height="906" alt="Screenshot 2026-03-06 155715" src="https://github.com/user-attachments/assets/6a45a3ea-1e58-43e3-8328-b04302aeaedd" /># Mini POS – Stock & Purchase 
+# Mini POS – Stock & Purchase 
 
 This project is a Mini Retail Procurement and Stock Management System.
 It focuses on managing Purchase Orders, Goods Receipt (GRN), stock updates, and price tracking.
